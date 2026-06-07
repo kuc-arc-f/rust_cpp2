@@ -23,5 +23,9 @@ Rust Windows , C++ call example
 clang++ -shared sample.cpp -o sample.dll
 cargo build
 ```
+
 ***
+### blog
+
+https://zenn.dev/knaka0209/scraps/6dc40eefc3d915#comment-a7d50b8e86d3fe
 
